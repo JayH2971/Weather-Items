@@ -4,10 +4,9 @@ DisplayName: Weather Items
 QRC:
 
 Message: 1010
-<ce>  It's not much, but you have a small
-<ce>  pack of spare clothes available you can
-<ce>  use. You unpack your set of boots
-<ce>  and a robe.
+<ce>  You're glad you have a set of boots
+<ce>  and a robe. You never know what
+<ce>  you might encounter.
 
 QBN:
 Item _boots_ item class 6 subclass 8
